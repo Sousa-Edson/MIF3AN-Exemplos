@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="nome_pessoa">Nome: </string>
+    <string name="nome_idioma">Idioma: </string>
+    <string name="edtNome"> Nome </string>
+    <string name="txt_ingles">Inglês</string>
+    <string name="txt_alemao">Alemão</string>
+    <string name="nome_curso"> Informática </string>
+
+</resources>

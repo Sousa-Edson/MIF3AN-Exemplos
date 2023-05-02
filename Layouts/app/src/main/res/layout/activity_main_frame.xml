@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imgFIEB"
+        android:src="@drawable/belval"
+        android:scaleType="fitCenter"/>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nome_curso"
+        android:id="@+id/txtNomeCurso"
+        android:background="@color/colorBackgroundNomeCurso"
+        android:textColor="@color/colorTxtNomeCurso"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:padding="5dp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="15dp"/>
+
+    <ImageView
+        android:id="@+id/ImgAndroidFrame"
+        android:layout_width="204dp"
+        android:layout_height="149dp"
+        android:layout_gravity="top|end"
+        android:src="@drawable/informatica" />
+
+</FrameLayout>

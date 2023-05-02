@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ciclo de Vida</string>
+    <string name="txt_FIEB"> FIEB Tela Inicial </string>
+    <string name="txt_btn"> Nova Tela </string>
+    <string name="txt_FIEB2"> FIEB Tela 2</string>
+</resources>
